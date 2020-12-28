@@ -14,3 +14,5 @@ In this week, you will continue working on your capstone project. Please remembe
 2. A link to your Notebook on your Github repository pushed showing your code. (**15 marks**)
 3. Your choice of a presentation or blogpost. (**10 marks**)
 
+## Project Report and Presentation:
+Project Report and Presentation is available at my blogspot page: <a href='https://iamabhishekgaurav.blogspot.com/2020/12/applied-capstone-project.html'></a> 
